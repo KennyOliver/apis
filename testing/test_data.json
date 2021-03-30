@@ -1,23 +1,23 @@
 {
-	"personal_info": {
-		"person_id": "f7q21",
-		"forename": "Marinna",
-		"surname": "Munn",
-		"age": 29,
-		"email": "marinna.munn@gmail.com",
-		"title": "Mrs.",
-		"married": true,
-	}
-	"address": {
-		"house_number": 42,
-		"street": "Cumming Street",
-		"city": "Suva",
-		"country": "Fiji",
-		"countryCode": "FJI",
-	}
+	"personal_info": [
+		["person_id", "f7q21"],
+		["forename", "Marinna"],
+		["surname", "Munn"],
+		["age", 29],
+		["email", "marinna.munn@gmail.com"],
+		["title", "Mrs."],
+		["married", true]
+	]
+	"address": [
+		["house_number", 42],
+		["street", "Cumming Street"],
+		["city", "Suva"],
+		["country", "Fiji"],
+		["countryCode", "FJI"]
+	]
 	"children": [
-		"Ellie",
-		"George",
-		"Hollie",
+		["Ellie"],
+		["George"],
+		["Hollie"]
 	],
 }
