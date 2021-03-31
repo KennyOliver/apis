@@ -16,8 +16,8 @@
  		countryCode: "FJI",
  	},
  	children: [
- 		Ellie,
- 		George,
- 		Hollie,
+ 		"Ellie",
+ 		"George",
+ 		"Hollie",
  	],
 }
