@@ -1,0 +1,31 @@
+[{
+  "id": 1,
+  "first_name": "Zitella",
+  "last_name": "Brendeke",
+  "email": "zbrendeke0@aol.com",
+  "username": "zbrendeke0"
+}, {
+  "id": 2,
+  "first_name": "Tessa",
+  "last_name": "Libby",
+  "email": "tlibby1@nydailynews.com",
+  "username": "tlibby1"
+}, {
+  "id": 3,
+  "first_name": "Binky",
+  "last_name": "Southerill",
+  "email": "bsoutherill2@google.pl",
+  "username": "bsoutherill2"
+}, {
+  "id": 4,
+  "first_name": "Latashia",
+  "last_name": "Tulleth",
+  "email": "ltulleth3@oaic.gov.au",
+  "username": "ltulleth3"
+}, {
+  "id": 5,
+  "first_name": "Aloysia",
+  "last_name": "Balme",
+  "email": "abalme4@bandcamp.com",
+  "username": "abalme4"
+}]
