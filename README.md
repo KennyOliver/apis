@@ -7,5 +7,7 @@
 
 **Self-hosted static REST APIs**
 
+[![repl](https://replit.com/badge/github/KennyOliver/kennyolivergithubioapis)](https://replit.com/@KennyOliver/kennyolivergithubioapis)
+
 ---
 Kenny Oliver ©2021
