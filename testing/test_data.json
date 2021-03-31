@@ -1,5 +1,4 @@
-{
-	"personal_info": {
+"personal_info": [
 		"person_id": "f7q21",
 		"forename": "Marinna",
 		"surname": "Munn",
@@ -7,17 +6,16 @@
 		"email": "marinna.munn@gmail.com",
 		"title": "Mrs.",
 		"married": true,
-	},
-	"address": {
+	],
+	"address": [
 		"house_number": 42,
 		"street": "Cumming Street",
 		"city": "Suva",
 		"country": "Fiji",
 		"countryCode": "FJI",
-	},
+	],
 	"children": [
 		"Ellie",
 		"George",
 		"Hollie",
-	],
-}
+	]
