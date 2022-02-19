@@ -1,5 +1,5 @@
-[{
-  "set_1": [
+[
+  [
     {
       "src":   "https://i0.wp.com/post.healthline.com/wp-content/uploads/2019/09/aloe-vera-plant-1296x728-header-1296x728.jpg?w=1155&h=1528",
       "title": "Aloe",
@@ -25,7 +25,7 @@
       "desc":  "Succulents are plants with fleshy leaves — usually used to retain water in arid climates or soil conditions.",
     },
   ],
-  "set_2": [
+  [
     {
       "src":   "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Conophytum_burgeri_in_cultivation_1.jpg/640px-Conophytum_burgeri_in_cultivation_1.jpg",
       "title": "Dumplings (Burger's Onion)",
@@ -51,7 +51,7 @@
       "desc":  "Their waxy cuticle prevents evaporation. Grows to only 20cm. Patience required, perfect for a desk.",
     },
   ],
-  "set_3": [
+  [
     {
       "src":   "https://www.atozflowers.com/wp-content/uploads/2017/11/Echeveria_secunda_-_Roscoff-1024x627.jpg",
       "title": "Hens and Chicks",
@@ -77,7 +77,7 @@
       "desc":  "Did you know that you can grow baby succulents from their leaves?",
     },
   ],
-  "set_4": [
+  [
     {
       "src":   "https://www.gardeningknowhow.com/wp-content/uploads/2018/05/jelly-bean-plant-400x400.jpg",
       "title": "Jelly Beans",
@@ -103,7 +103,7 @@
       "desc":  "Native to central & northern Mexico.",
     },
   ],
-  "set_5": [
+  [
     {
       "src":   "https://www.santacruzsentinel.com/wp-content/uploads/2019/06/KARWIN-011.jpg",
       "title": "Golden Barrel",
@@ -129,4 +129,4 @@
       "desc":  "Native to Bolivia & Argentina. They are globular in shape, with flowers that are relatively large for their size. It's subspecies have gained the Royal Horticultural Society's Award of Garden Merit.",
     },
   ],
-}]
+]
